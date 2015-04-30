@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SQLScrewdriver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SQLScrewdriver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
